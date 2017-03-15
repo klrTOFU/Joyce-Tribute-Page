@@ -1,0 +1,57 @@
+<style>
+	.entirePage {
+	background-color: #D3D3D3;
+	border: 20px solid;
+	}
+
+	.bigBody {
+	text-align: center;
+  }
+	.listChange {
+	display: block;
+	margin: 0 auto;
+	width: 60%;
+	}
+	
+</style>
+
+<head>
+	<title>James Joyce Tribute</title>
+</head>
+
+<body>
+	<div class="entirePage">
+		<div class="bigBody">
+			<h1>James Joyce</h1>
+			<h4>The Best Damn Writer EVER</h4>
+			<figure>
+				<img src="http://www.vol1brooklyn.com/wp-content/uploads/2013/02/James-Joyce.jpeg" class="img-responsive center-block img-thumbnail" alt="James Joyce looking smug">
+				<figcaption>Yarg! This be pirate James Joyce!</figcaption>
+			</figure>
+		</div>
+			<div class="listChange">
+				<h4>Here&#39;s a time line of James Joyce&#39;s Life:</h4>
+				<ul>
+					<li>1882 - James Joyce Born</li>
+					<li>1904 - Wrote Portrait of an Artist</li>
+					<li>1906 - Wrote Ulysses</li>
+					<li>1923 - Wrote Finnigan&#39;s Wake</li>
+					<li>1941 - Died</li>
+				</ul>
+			
+			<blockquote>
+				<h4>"I once killed a bar full of people because they said they had never read any of my books."</h4>
+				<footer><citetitle>--James Joyce</citetitle></footer>
+				</blockquote>
+			
+			<h6>Check out the interesting and INSANE history of James Joyce on his 
+			<a href="https://en.wikipedia.org/wiki/James_Joyce" target="_blank">Wikipedia Page</a></h6>
+  </div>
+	</div>
+
+
+</body>
+
+<footer>
+	<p>Made by the Powerful Joe Kausch</p>
+</footer>
